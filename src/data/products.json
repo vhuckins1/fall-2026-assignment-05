@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Charizard Holo – Base Set",
+    "price": 349.99,
+    "category": "Vintage Singles",
+    "description": "The iconic 1999 Base Set Charizard holo. A centerpiece card for any collection.",
+    "imageUrl": "./images/charizard-base.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pikachu – Base Set (Yellow Cheeks)",
+    "price": 24.99,
+    "category": "Vintage Singles",
+    "description": "Classic Base Set Pikachu with the early yellow-cheek print. Great nostalgia pick.",
+    "imageUrl": "./images/pikachu-base.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blastoise Holo – Base Set",
+    "price": 129.99,
+    "category": "Vintage Singles",
+    "description": "Base Set Blastoise holo in lightly played condition. Pairs perfectly with Charizard and Venusaur.",
+    "imageUrl": "./images/blastoise-base.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Venusaur Holo – Base Set",
+    "price": 99.99,
+    "category": "Vintage Singles",
+    "description": "Complete your Base Set starter trio with this holo Venusaur.",
+    "imageUrl": "./images/venusaur-base.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mewtwo Holo – Base Set",
+    "price": 44.99,
+    "category": "Vintage Singles",
+    "description": "The legendary psychic Pokémon in its original holo printing.",
+    "imageUrl": "./images/mewtwo-base.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Umbreon VMAX – Evolving Skies (Alt Art)",
+    "price": 549.99,
+    "category": "Modern Singles",
+    "description": "The highly sought-after 'Moonbreon' alternate art. One of the most popular modern chase cards.",
+    "imageUrl": "./images/umbreon-vmax.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rayquaza VMAX – Evolving Skies (Alt Art)",
+    "price": 289.99,
+    "category": "Modern Singles",
+    "description": "Stunning alternate art Rayquaza soaring through the sky. A standout card from Evolving Skies.",
+    "imageUrl": "./images/rayquaza-vmax.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gengar VMAX – Fusion Strike (Alt Art)",
+    "price": 179.99,
+    "category": "Modern Singles",
+    "description": "Gengar's mischievous alternate art in near-mint condition.",
+    "imageUrl": "./images/gengar-vmax.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mew ex – 151 Special Illustration Rare",
+    "price": 59.99,
+    "category": "Modern Singles",
+    "description": "Gold-bordered Mew from the Scarlet & Violet 151 set. A favorite among Kanto fans.",
+    "imageUrl": "./images/mew-ex-sir.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Charizard ex – Obsidian Flames",
+    "price": 34.99,
+    "category": "Modern Singles",
+    "description": "Tera-type Charizard ex with striking dark artwork. Playable and collectible.",
+    "imageUrl": "./images/charizard-ex-obsidian-flames.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Lugia V – Silver Tempest (Alt Art)",
+    "price": 219.99,
+    "category": "Modern Singles",
+    "description": "Gorgeous alternate art Lugia perched on ancient ruins. A top Silver Tempest chase.",
+    "imageUrl": "./images/lugia-v.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Pikachu – Celebrations",
+    "price": 4.99,
+    "category": "Modern Singles",
+    "description": "Pikachu from the 25th Anniversary Celebrations set. A fun, affordable pickup for any Pikachu fan.",
+    "imageUrl": "./images/pikachu-celebrations.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Snorlax – Jungle Holo",
+    "price": 39.99,
+    "category": "Vintage Singles",
+    "description": "The classic Jungle set Snorlax holo from 1999. A fan-favorite vintage card.",
+    "imageUrl": "./images/snorlax-jungle.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Scarlet & Violet 151 Booster Pack",
+    "price": 7.99,
+    "category": "Sealed Product",
+    "description": "A single booster pack featuring the original 151 Pokémon. Ten cards per pack.",
+    "imageUrl": "./images/scarlet-violet-booster-pack.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Evolving Skies Booster Box",
+    "price": 699.99,
+    "category": "Sealed Product",
+    "description": "Factory-sealed box of 36 Evolving Skies packs. A strong pick for chasing Eeveelution alt arts.",
+    "imageUrl": "./images/evolving-skies-booster-box.jpg"
+  }
+]
